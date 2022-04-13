@@ -1,23 +1,107 @@
 [
     {
-        "name": "Test project name",
-        "description": "Test description",
-        "technology": "Laravel",
-        "language": "Blade",
-        "image": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name": "Terminal Chat with Room",
+        "description": "Terminal Chat is a simple CLI themed realtime chat application developed with NodeJS.",
+        "technology": "NodeJS",
+        "language": "JavaScript",
+        "image": "../storage/images/clichat-shreekrishnalamichhane-com-np.png",
         "source": {
-            "link": "https://github.com/shreekrishnalamichhane/...",
+            "link": "https://github.com/shreekrishnalamichhane/terminal-chat-with-room",
             "disabled": false,
             "target": "_blank"
         },
         "demo": {
-            "link": "https://....shreekrishnalamichhane.com.np/",
+            "link": "https://clichat.shreekrishnalamichhane.com.np",
             "disabled": false,
             "target": "_blank"
         },
         "date": {
-            "created_at": "1 January, 1970, 00:00:00 UTC",
-            "updated_at": "1 January, 2020, 00:00:00 UTC"
+            "created_at": "9 April, 2022, 00:00:00 UTC",
+            "updated_at": "13 April, 2022, 00:00:00 UTC"
+        }
+    },
+    {
+        "name": "API-Web-Scraping Server",
+        "description": "A simple web scraping api server for tuiost.edu.np notice.",
+        "technology": "NodeJS",
+        "language": "JavaScript",
+        "image": "../storage/images/notice-bsccsitnepal-com.png",
+        "source": {
+            "link": "https://github.com/shreekrishnalamichhane/TUIOST-Notice-API-Web-Scraping-Server",
+            "disabled": false,
+            "target": "_blank"
+        },
+        "demo": {
+            "link": "https://notice.bsccsitnepal.com",
+            "disabled": false,
+            "target": "_blank"
+        },
+        "date": {
+            "created_at": "22 February, 2022, 00:00:00 UTC",
+            "updated_at": "23 February, 2022, 00:00:00 UTC"
+        }
+    },
+    {
+        "name": "Express API-Proxy Server",
+        "description": "API Proxy server with caching and rate limiting features.",
+        "technology": "NodeJS",
+        "language": "JavaScript",
+        "image": "../storage/images/express-api-proxy-server.png",
+        "source": {
+            "link": "https://github.com/shreekrishnalamichhane/Express-API-Proxy-Server",
+            "disabled": false,
+            "target": "_blank"
+        },
+        "demo": {
+            "link": "#",
+            "disabled": true,
+            "target": "_self"
+        },
+        "date": {
+            "created_at": "25 October, 2021, 00:00:00 UTC",
+            "updated_at": "25 October, 2021, 00:00:00 UTC"
+        }
+    },
+    {
+        "name": "Laravel File Manager",
+        "description": "Authentication based file manager application built with Laravel.",
+        "technology": "Laravel",
+        "language": "PHP",
+        "image": "../storage/images/larafile-shreekrishnalamichhane-com-np.png",
+        "source": {
+            "link": "https://github.com/shreekrishnalamichhane/Laravel-File-Manager",
+            "disabled": false,
+            "target": "_blank"
+        },
+        "demo": {
+            "link": "https://larafile.shreekrishnalamichhane.com.np/files",
+            "disabled": false,
+            "target": "_blank"
+        },
+        "date": {
+            "created_at": "25 October, 2021, 00:00:00 UTC",
+            "updated_at": "12 April, 2022, 00:00:00 UTC"
+        }
+    },
+    {
+        "name": "Nepweds Portfolio",
+        "description": "Authentication based file manager application built with Laravel.",
+        "technology": "Laravel",
+        "language": "PHP",
+        "image": "../storage/images/nepweds-shreekrishnalamichhane-com-np.png",
+        "source": {
+            "link": "https://github.com/shreekrishnalamichhane/Nepweds-Portfolio",
+            "disabled": false,
+            "target": "_blank"
+        },
+        "demo": {
+            "link": "https://nepweds.shreekrishnalamichhane.com.np/files",
+            "disabled": false,
+            "target": "_blank"
+        },
+        "date": {
+            "created_at": "16 November, 2021, 00:00:00 UTC",
+            "updated_at": "13 April, 2022, 00:00:00 UTC"
         }
     }
 ]

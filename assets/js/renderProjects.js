@@ -3,7 +3,7 @@ let card_wrapper = document.querySelector('.card-wrapper');
 let renderDate = (created_at, updated_at) => {
     var c = new Date(created_at);
     var u = new Date(updated_at);
-    let months = ['Jan', 'Feb', 'Mar', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    let months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
     return months[c.getMonth()] + ' ' + c.getFullYear() + '    -    ' + months[u.getMonth()] + ' ' + u.getFullYear();
 }
 // fetch('https://api.github.com/users/shreekrishnalamichhane/repos')
