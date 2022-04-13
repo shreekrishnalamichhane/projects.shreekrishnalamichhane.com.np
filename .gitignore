@@ -1,0 +1,17 @@
+*
+
+!data
+!data/*
+!data/**
+
+!assets
+!assets/*
+!assets/**
+
+!storage
+!storage/images
+!storage/images/*
+!storage/images/**
+
+!index.html
+!.gitignore
