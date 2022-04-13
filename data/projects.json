@@ -85,7 +85,7 @@
     },
     {
         "name": "Nepweds Portfolio",
-        "description": "Authentication based file manager application built with Laravel.",
+        "description": "Portfolio Website made for photography company Nepweds.",
         "technology": "Laravel",
         "language": "PHP",
         "image": "../storage/images/nepweds-shreekrishnalamichhane-com-np.png",
