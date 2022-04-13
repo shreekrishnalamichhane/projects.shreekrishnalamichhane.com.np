@@ -103,5 +103,47 @@
             "created_at": "16 November, 2021, 00:00:00 UTC",
             "updated_at": "13 April, 2022, 00:00:00 UTC"
         }
+    },
+    {
+        "name": "Image Encryption & Decryption With ClientSide Javascript.",
+        "description": "A simple implementation of image encryption/decryption using AES Algorithm in client side javascript.",
+        "technology": "Vanilla JS",
+        "language": "Javascript",
+        "image": "../storage/images/image-encryption-decryption-projects-shreekrishnalamichhane-com-np.png",
+        "source": {
+            "link": "https://github.com/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS",
+            "disabled": false,
+            "target": "_blank"
+        },
+        "demo": {
+            "link": "https://projects.shreekrishnalamichhane.com.np/image-encryption---decryption-using-client-side-JS/",
+            "disabled": false,
+            "target": "_blank"
+        },
+        "date": {
+            "created_at": "11 April, 2022, 00:00:00 UTC",
+            "updated_at": "11 April, 2022, 00:00:00 UTC"
+        }
+    },
+    {
+        "name": "New Year 2079 Fireworks Show",
+        "description": "A firework show for new year 2079 developed with javascript.",
+        "technology": "Vanilla JS",
+        "language": "Javascript",
+        "image": "../storage/images/new-year-2079-fireworks-projects-shreekrishnalamichhane-com-np.png",
+        "source": {
+            "link": "https://github.com/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS",
+            "disabled": false,
+            "target": "_blank"
+        },
+        "demo": {
+            "link": "https://projects.shreekrishnalamichhane.com.np/image-encryption---decryption-using-client-side-JS/",
+            "disabled": false,
+            "target": "_blank"
+        },
+        "date": {
+            "created_at": "11 April, 2022, 00:00:00 UTC",
+            "updated_at": "11 April, 2022, 00:00:00 UTC"
+        }
     }
 ]
